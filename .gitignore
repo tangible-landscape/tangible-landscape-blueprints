@@ -1,89 +1,79 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# RHINO #
+#########
+.rhl
+.‎3dmbak
+.rws
 
-# C extensions
-*.so
+# REVEAL #
+#########
+.svn
+log/*.log
+tmp/**
+node_modules/
+.sass-cache
+css/reveal.min.css
+js/reveal.min.js
+build
 
-# Distribution / packaging
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
+# APPLE #
+#########
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+# Icon must end with two \r
+Icon
+# Thumbnails
+._*
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*,cover
-.hypothesis/
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
 
-# Translations
-*.mo
-*.pot
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
-# Django stuff:
-*.log
-local_settings.py
+# WINDOWS #
+###########
 
-# Flask stuff:
-instance/
-.webassets-cache
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Scrapy stuff:
-.scrapy
+# Folder config file
+Desktop.ini
 
-# Sphinx documentation
-docs/_build/
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# PyBuilder
-target/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-# IPython Notebook
-.ipynb_checkpoints
+# Windows shortcuts
+*.lnk
 
-# pyenv
-.python-version
+# LINUX #
+#########
 
-# celery beat schedule file
-celerybeat-schedule
+*~
 
-# dotenv
-.env
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
 
-# virtualenv
-venv/
-ENV/
+# KDE directory preferences
+.directory
 
-# Spyder project settings
-.spyderproject
-
-# Rope project settings
-.ropeproject
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
