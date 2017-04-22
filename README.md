@@ -2,7 +2,7 @@
 3D models, CAD drawings, renderings, and sketches
 of designs for Tangible Landscape systems.
 
-![](renderings/tl_standard_screenshot.png "Current Tangible Landscape setup")
+![](renderings/tl_standard_1.png "Current Tangible Landscape setup")
 
 ![](renderings/tl_wall_mounted_2.jpg "Wall mounted Tangible Landscape setup")
 
